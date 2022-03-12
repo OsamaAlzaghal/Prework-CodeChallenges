@@ -1,0 +1,16 @@
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\obj\Debug\net5.0\Challenge01.csproj.AssemblyReference.cache
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\obj\Debug\net5.0\Challenge01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\obj\Debug\net5.0\Challenge01.AssemblyInfoInputs.cache
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\obj\Debug\net5.0\Challenge01.AssemblyInfo.cs
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\obj\Debug\net5.0\Challenge01.csproj.CoreCompileInputs.cache
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\bin\Debug\net5.0\Challenge01.exe
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\bin\Debug\net5.0\Challenge01.deps.json
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\bin\Debug\net5.0\Challenge01.runtimeconfig.json
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\bin\Debug\net5.0\Challenge01.runtimeconfig.dev.json
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\bin\Debug\net5.0\Challenge01.dll
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\bin\Debug\net5.0\ref\Challenge01.dll
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\bin\Debug\net5.0\Challenge01.pdb
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\obj\Debug\net5.0\Challenge01.dll
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\obj\Debug\net5.0\ref\Challenge01.dll
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\obj\Debug\net5.0\Challenge01.pdb
+C:\Users\acer\Advanced dotNET\Prework-CodeChallenges\Challenge01\obj\Debug\net5.0\Challenge01.genruntimeconfig.cache
